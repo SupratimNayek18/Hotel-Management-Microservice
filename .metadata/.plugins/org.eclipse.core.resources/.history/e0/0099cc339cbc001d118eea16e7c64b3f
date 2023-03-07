@@ -1,0 +1,5 @@
+package com.guest.entities;
+
+public class UserCredentials {
+
+}

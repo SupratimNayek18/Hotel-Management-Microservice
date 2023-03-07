@@ -1,0 +1,11 @@
+package com.guest.utils;
+
+public class UserCredentialsDTOCreator {
+	
+	private UserCredentialsDTOCreator() {}
+	
+	public static UserCredentialsDTO createUserCredentialsDTO(String userName,String password) {
+		
+	}
+
+}

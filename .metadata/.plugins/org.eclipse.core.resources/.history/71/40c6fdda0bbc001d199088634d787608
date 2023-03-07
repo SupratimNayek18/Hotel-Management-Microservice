@@ -1,0 +1,10 @@
+package com.reservation.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="reservation_details")
+public class Reservation {
+
+}

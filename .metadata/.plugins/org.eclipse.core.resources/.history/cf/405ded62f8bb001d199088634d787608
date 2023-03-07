@@ -1,0 +1,68 @@
+package com.guest.service;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Service;
+
+import com.guest.dto.AddressDTO;
+import com.guest.dto.GuestDTO;
+import com.guest.entities.Guest;
+import com.guest.exceptions.GuestRegistrationException;
+import com.guest.feignclients.AddressFeignClient;
+import com.guest.repository.GuestRepository;
+import com.guest.utils.GuestDtoConverter;
+
+import jakarta.transaction.Transactional;
+
+@Service
+@Transactional
+public class GuestServiceImpl implements GuestService {
+
+	@Autowired
+	GuestRepository guestRepository;
+
+	@Autowired
+	AddressFeignClient addressFeignClient;
+
+	@Override
+	public GuestDTO registerGuest(GuestDTO guestDTO, AddressDTO addressDTO) {
+		Guest guest = GuestDtoConverter.GuestDtoToEntity(guestDTO);
+
+		try {
+			
+			Guest savedGuest = guestRepository.save(guest);
+
+			addressDTO.setGuestId(savedGuest.getId());
+
+			addressFeignClient.addAddress(addressDTO);
+			
+		}catch(Exception e) {
+			throw new GuestRegistrationException("Couldn't Save Guest. Please Try Again");
+		}
+
+		return GuestDtoConverter.GuestEntityToDto(savedGuest);
+	}
+
+	@Override
+	public GuestDTO getGuestDetails(Integer guestId) {
+
+		Optional<Guest> guest = guestRepository.findById(guestId);
+
+		if (guest.isPresent()) {
+			
+			ResponseEntity<AddressDTO> addressDTO = addressFeignClient.getAddress(guestId);
+			
+			GuestDTO guestDTO = GuestDtoConverter.GuestEntityToDto(guest.get());
+			
+			guestDTO.setAddressDTO(addressDTO.getBody());
+
+			return guestDTO;
+
+		}
+
+		return null;
+	}
+
+}

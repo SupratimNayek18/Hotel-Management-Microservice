@@ -1,0 +1,53 @@
+package com.address.service;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.address.dto.AddressDTO;
+import com.address.entity.Address;
+import com.address.exceptions.AddressNotFoundException;
+import com.address.repository.AddressRepository;
+import com.address.utils.AddressDtoConverter;
+
+@Service
+public class AddressServiceImpl implements AddressService {
+	
+	@Autowired
+	AddressRepository addressRepository;
+
+	@Override
+	public AddressDTO addAddress(AddressDTO addressDTO) {
+		
+		try {
+			
+			Address address = AddressDtoConverter.addressDtoToEntity(addressDTO);
+			
+			Address savedAddress = addressRepository.save(address);
+			
+			return AddressDtoConverter.addressEntitytoDto(savedAddress);
+			
+		}catch(Exception e) {\
+			
+			throw new AddressAdditionException("Addess Couldn't Be Added. Please Try Again");
+		
+		}
+		
+	}
+
+	@Override
+	public AddressDTO getAddress(Integer guestId) {
+		
+			Optional<Address> address = Optional.ofNullable(addressRepository.getByUserId(guestId));
+			
+			if(address.isPresent()) {
+				return AddressDtoConverter.addressEntitytoDto(address.get());
+			}
+			
+			throw new AddressNotFoundException("Address For Given Guest Id Not Found");
+		
+		
+	}
+
+}

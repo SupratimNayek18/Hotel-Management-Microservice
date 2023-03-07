@@ -1,0 +1,12 @@
+package com.guest.service;
+
+import com.guest.dto.AddressDTO;
+import com.guest.dto.GuestDTO;
+
+public interface GuestService {
+
+	public GuestDTO registerGuest(GuestDTO guestDTO,AddressDTO addressDTO);
+
+	public GuestDTO getGuestDetails(Integer guestId);
+
+}

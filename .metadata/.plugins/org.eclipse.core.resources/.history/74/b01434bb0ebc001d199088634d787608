@@ -1,0 +1,5 @@
+package com.reservation.exceptions;
+
+public class GetReservationException extends Exception {
+
+}

@@ -1,0 +1,64 @@
+package com.guest.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.guest.dto.AddressDTO;
+import com.guest.dto.GuestDTO;
+import com.guest.dto.UserCredentialsDTO;
+import com.guest.exceptions.GuestNotFoundException;
+import com.guest.exceptions.GuestRegistrationException;
+import com.guest.service.GuestService;
+import com.guest.service.JwtService;
+import com.guest.utils.GuestDTOCreator;
+import com.guest.utils.UserCredentialsDTOCreator;
+
+@RestController
+@RequestMapping("/guest/api/")
+public class GuestController {
+
+	@Autowired
+	GuestService guestService;
+	
+	@Autowired
+	JwtService jwtService;
+
+	@GetMapping("test")
+	public ResponseEntity<String> hello() {
+		return new ResponseEntity<>("OK", HttpStatus.OK);
+	}
+	
+	@PostMapping("/authenticate")
+	public String authenticateAndGetToken(@RequestBody UserCredentialsDTO userCredentialsDTO) {
+		
+	}
+
+	@PostMapping("register")
+	public ResponseEntity<GuestDTO> registerGuest(@RequestParam String name, @RequestParam Integer age,
+			@RequestParam Long phoneNumber, @RequestParam String userName, @RequestParam String password,
+			@RequestParam String role, @RequestBody AddressDTO addressDTO) throws GuestRegistrationException {
+
+		GuestDTO guestDto = GuestDTOCreator.createGuestDTO(name, age, phoneNumber);
+
+		UserCredentialsDTO userCredentialsDTO = UserCredentialsDTOCreator.createUserCredentialsDTO(userName, password,role);
+
+		return new ResponseEntity<>(guestService.registerGuest(guestDto, userCredentialsDTO, addressDTO),
+				HttpStatus.OK);
+
+	}
+
+	@GetMapping("getGuestDetails")
+	public ResponseEntity<GuestDTO> getGuestDetails(@RequestParam Integer guestId) throws GuestNotFoundException {
+
+		return new ResponseEntity<>(guestService.getGuestDetails(guestId), HttpStatus.OK);
+
+	}
+
+}

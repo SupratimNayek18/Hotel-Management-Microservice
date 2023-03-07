@@ -1,0 +1,5 @@
+package com.guest.utils;
+
+public class UserCredentialsDTOCreator {
+
+}

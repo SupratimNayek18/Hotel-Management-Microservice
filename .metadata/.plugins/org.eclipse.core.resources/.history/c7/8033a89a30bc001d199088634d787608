@@ -1,0 +1,12 @@
+package com.guest.service;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class JwtService {
+
+	public String generateToken(String username,Stirng password) {
+		
+	}
+	
+}

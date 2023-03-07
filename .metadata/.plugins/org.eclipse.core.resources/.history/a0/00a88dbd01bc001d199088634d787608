@@ -1,0 +1,45 @@
+package com.address.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.address.dto.AddressDTO;
+import com.address.entity.Address;
+import com.address.repository.AddressRepository;
+import com.address.utils.AddressDtoConverter;
+
+@Service
+public class AddressServiceImpl implements AddressService {
+	
+	@Autowired
+	AddressRepository addressRepository;
+
+	@Override
+	public AddressDTO addAddress(AddressDTO addressDTO) {
+		
+		try {
+			
+			Address address = AddressDtoConverter.addressDtoToEntity(addressDTO);
+			
+			Address savedAddress = addressRepository.save(address);
+			
+			return AddressDtoConverter.addressEntitytoDto(savedAddress);
+			
+		}catch(Exception e) {
+			
+		}
+		Address address = AddressDtoConverter.addressDtoToEntity(addressDTO);
+		
+		Address savedAddress = addressRepository.save(address);
+		
+		return AddressDtoConverter.addressEntitytoDto(savedAddress);
+	}
+
+	@Override
+	public AddressDTO getAddress(Integer guestId) {
+		Address address = addressRepository.getByUserId(guestId);
+		
+		return AddressDtoConverter.addressEntitytoDto(address);
+	}
+
+}

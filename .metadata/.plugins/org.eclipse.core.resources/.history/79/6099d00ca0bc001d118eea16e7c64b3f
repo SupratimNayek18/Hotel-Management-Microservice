@@ -1,0 +1,12 @@
+package com.guest.utils;
+
+import com.guest.dto.UserCredentialsDTO;
+import com.guest.entities.UserCredentials;
+
+public class UserCredentialsDTOConverter {
+
+	public static UserCredentials convertUserCredentialsDTOtoEntity(UserCredentialsDTO userCredentialsDTO) {
+		UserCredentials userCredentials = new UserCredentials();
+	}
+	
+}

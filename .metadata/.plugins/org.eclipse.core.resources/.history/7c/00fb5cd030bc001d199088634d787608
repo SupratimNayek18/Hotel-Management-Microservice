@@ -1,0 +1,16 @@
+package com.guest.service;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class JwtService {
+
+	public String generateToken(String username,String password) {
+		Map<String, Object> claims = new HashMap<>();
+		return createToken(claims,userName);
+	}
+	
+}

@@ -1,0 +1,9 @@
+package com.reservation.exceptions;
+
+public class GetReservationException extends Exception {
+	
+	public GetReservationException(String message) {
+		super(message);
+	}
+
+}

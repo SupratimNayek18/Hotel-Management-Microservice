@@ -1,0 +1,13 @@
+package com.guest.service;
+
+import com.guest.dto.AddressDTO;
+import com.guest.dto.GuestDTO;
+import com.guest.exceptions.GuestRegistrationException;
+
+public interface GuestService {
+
+	public GuestDTO registerGuest(GuestDTO guestDTO,AddressDTO addressDTO) throws GuestRegistrationException;
+
+	public GuestDTO getGuestDetails(Integer guestId);
+
+}

@@ -1,0 +1,9 @@
+package com.address.exceptions;
+
+public class AddressGlobaExceptionHandler extends Exception {
+
+	public AddressGlobaExceptionHandler(String message) {
+		super(message);
+	}
+
+}

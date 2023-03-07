@@ -1,0 +1,14 @@
+package com.reservation.utils;
+
+import com.reservation.dto.ReservationDTO;
+import com.reservation.entity.Reservation;
+
+public class ReservationDTOConverter {
+	
+	private ReservationDTOConverter() {}
+	
+	public static Reservation convertReservationDTOtoEntity(ReservationDTO reservationDTO) {
+		Reservation reservation = new Reservation();
+	}
+
+}

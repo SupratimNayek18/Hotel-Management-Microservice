@@ -1,0 +1,14 @@
+package com.reservation.exceptions;
+
+public class GetReservationException extends Exception {
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	public GetReservationException(String message) {
+		super(message);
+	}
+
+}

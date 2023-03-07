@@ -1,0 +1,11 @@
+package com.address.service;
+
+import com.address.dto.AddressDTO;
+
+public interface AddressService {
+	
+	public AddressDTO addAddress(AddressDTO addressDTO);
+	
+	public AddressDTO getAddress(Integer guestId);
+
+}

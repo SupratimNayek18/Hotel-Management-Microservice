@@ -1,0 +1,5 @@
+package com.guest.exceptions;
+
+public class UserNameNotFoundException extends Exception {
+
+}

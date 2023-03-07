@@ -1,0 +1,21 @@
+package com.reservation.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.reservation.dto.ReservationDTO;
+import com.reservation.service.ReservationService;
+
+@RestController
+public class ReservationController {
+	
+	@Autowired
+	ReservationService reservationService;
+	
+	public ResponseEntity<ReservationDTO> addReservation(@RequestBody ReservationDTO reservationDTO){
+		return new ResponseEntity<>()
+	}
+
+}

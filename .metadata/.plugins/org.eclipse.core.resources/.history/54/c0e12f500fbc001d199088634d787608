@@ -1,0 +1,7 @@
+package com.reservation.utils;
+
+public class ReservationDTOConverter {
+	
+	private ReservationDTOConverter() {}
+
+}

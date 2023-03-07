@@ -1,0 +1,5 @@
+package com.guest.jwt.model;
+
+public class JwtRequest {
+
+}

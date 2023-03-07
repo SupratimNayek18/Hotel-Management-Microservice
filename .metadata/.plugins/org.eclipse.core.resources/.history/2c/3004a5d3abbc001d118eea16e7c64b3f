@@ -1,0 +1,8 @@
+package com.guest.exceptions;
+
+public class UserNameNotFoundException extends Exception {
+	UserNameNotFoundException(String message) {
+		super(message);
+	}
+
+}

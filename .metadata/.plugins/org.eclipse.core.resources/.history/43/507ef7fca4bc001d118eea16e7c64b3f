@@ -1,0 +1,11 @@
+package com.guest.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.guest.entities.UserCredentials;
+
+public interface UserCredentialsRepository extends JpaRepository<UserCredentials, Integer>{
+
+	void findByUserName(String username);
+
+}

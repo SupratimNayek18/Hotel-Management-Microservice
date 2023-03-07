@@ -1,0 +1,91 @@
+package com.reservation.entity;
+
+import java.time.LocalDate;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="reservation_details")
+public class Reservation {
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	@Column(name = "reservation_id")
+	private Integer reservationId;
+	
+	@Column(name = "room_number")
+	private Integer roomNumber;
+	
+	@Column(name = "bed_type")
+	private String bedType;
+	
+	@Column(name = "check_in")
+	private LocalDate checkIn;
+	
+	@Column(name = "check_out")
+	private LocalDate checkOut;
+	
+	@Column(name = "guest_id")
+	private Integer guestId;
+
+	public Integer getReservationId() {
+		return reservationId;
+	}
+
+	public void setReservationId(Integer reservationId) {
+		this.reservationId = reservationId;
+	}
+
+	public Integer getRoomNumber() {
+		return roomNumber;
+	}
+
+	public void setRoomNumber(Integer roomNumber) {
+		this.roomNumber = roomNumber;
+	}
+
+	public String getBedType() {
+		return bedType;
+	}
+
+	public void setBedType(String bedType) {
+		this.bedType = bedType;
+	}
+
+	public LocalDate getCheckIn() {
+		return checkIn;
+	}
+
+	public void setCheckIn(LocalDate checkIn) {
+		this.checkIn = checkIn;
+	}
+
+	public LocalDate getCheckOut() {
+		return checkOut;
+	}
+
+	public void setCheckOut(LocalDate checkOut) {
+		this.checkOut = checkOut;
+	}
+
+	public Integer getGuestId() {
+		return guestId;
+	}
+
+	public void setGuestId(Integer guestId) {
+		this.guestId = guestId;
+	}
+
+	@Override
+	public String toString() {
+		return "Reservation [reservationId=" + reservationId + ", roomNumber=" + roomNumber + ", bedType=" + bedType
+				+ ", checkIn=" + checkIn + ", checkOut=" + checkOut + ", guestId=" + guestId + "]";
+	}
+	
+
+}

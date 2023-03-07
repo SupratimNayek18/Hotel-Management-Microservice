@@ -1,0 +1,31 @@
+package com.reservation.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.reservation.dto.ReservationDTO;
+import com.reservation.entity.Reservation;
+import com.reservation.repository.ReservationRepository;
+import com.reservation.utils.ReservationDTOConverter;
+
+public class ReservationServiceImpl implements ReservationService {
+
+	@Autowired
+	ReservationRepository reservationRepository;
+
+	@Override
+	public ReservationDTO addReservation(ReservationDTO reservationDTO) {
+		try {
+
+			Reservation reservation = ReservationDTOConverter.convertReservationDTOtoEntity(reservationDTO);
+			
+		} catch (Exception e) {
+		}
+	}
+
+	@Override
+	public ReservationDTO getReserationDetails(Integer reservationId) {
+
+		return null;
+	}
+
+}

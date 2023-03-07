@@ -1,0 +1,11 @@
+package com.reservation.service;
+
+import com.reservation.dto.ReservationDTO;
+
+public interface ReservationService {
+	
+	public ReservationDTO addReservation(ReservationDTO reservationDTO);
+	
+	public ReservationDTO getReserationDetails(Integer reservationId);
+
+}

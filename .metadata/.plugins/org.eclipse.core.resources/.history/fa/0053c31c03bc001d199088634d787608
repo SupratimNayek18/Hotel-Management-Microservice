@@ -1,0 +1,30 @@
+package com.address.exceptions;
+
+public class AddressAdditionException extends Exception {
+
+	public AddressAdditionException() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public AddressAdditionException(String message) {
+		super(message);
+		// TODO Auto-generated constructor stub
+	}
+
+	public AddressAdditionException(Throwable cause) {
+		super(cause);
+		// TODO Auto-generated constructor stub
+	}
+
+	public AddressAdditionException(String message, Throwable cause) {
+		super(message, cause);
+		// TODO Auto-generated constructor stub
+	}
+
+	public AddressAdditionException(String message, Throwable cause, boolean enableSuppression,
+			boolean writableStackTrace) {
+		super(message, cause, enableSuppression, writableStackTrace);
+		// TODO Auto-generated constructor stub
+	}
+
+}

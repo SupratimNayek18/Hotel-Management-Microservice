@@ -1,0 +1,16 @@
+package com.guest.entities;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "user_credentials")
+public class UserCredentials {
+	
+	private Integer id;
+	
+	private String userName;
+	
+	private String password;
+
+}

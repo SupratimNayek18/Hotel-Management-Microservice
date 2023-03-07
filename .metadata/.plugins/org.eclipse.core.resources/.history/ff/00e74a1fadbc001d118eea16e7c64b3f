@@ -1,0 +1,87 @@
+package com.guest.service;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Service;
+
+import com.guest.dto.AddressDTO;
+import com.guest.dto.GuestDTO;
+import com.guest.dto.UserCredentialsDTO;
+import com.guest.entities.Guest;
+import com.guest.entities.UserCredentials;
+import com.guest.exceptions.GuestNotFoundException;
+import com.guest.exceptions.GuestRegistrationException;
+import com.guest.feignclients.AddressFeignClient;
+import com.guest.repository.GuestRepository;
+import com.guest.repository.UserCredentialsRepository;
+import com.guest.utils.GuestDtoConverter;
+import com.guest.utils.UserCredentialsDTOConverter;
+import com.netflix.discovery.converters.Auto;
+
+import jakarta.transaction.Transactional;
+
+@Service
+@Transactional
+public class GuestServiceImpl implements GuestService {
+
+	@Autowired
+	GuestRepository guestRepository;
+	
+	@Autowired
+	UserCredentialsRepository userCredentialsRepository;
+
+	@Autowired
+	AddressFeignClient addressFeignClient;
+
+	@Override
+	public GuestDTO registerGuest(GuestDTO guestDTO,UserCredentialsDTO userCredentialsDTO, AddressDTO addressDTO) throws GuestRegistrationException {
+		
+		Guest guest = GuestDtoConverter.GuestDtoToEntity(guestDTO);
+
+		try {
+			
+			Guest savedGuest = guestRepository.save(guest);
+
+			addressDTO.setGuestId(savedGuest.getId());
+			userCredentialsDTO.setGuestId(savedGuest.getId());
+			
+			UserCredentials userCredentials = UserCredentialsDTOConverter.convertUserCredentialsDTOtoEntity(userCredentialsDTO);
+			
+			userCredentialsRepository.save(userCredentials);
+
+			addressFeignClient.addAddress(addressDTO);
+			
+			return GuestDtoConverter.GuestEntityToDto(savedGuest);
+			
+		}catch(Exception e) {
+			
+			throw new GuestRegistrationException("Couldn't Save Guest. Please Try Again");
+		
+		}
+		
+	}
+
+	@Override
+	public GuestDTO getGuestDetails(Integer guestId) throws GuestNotFoundException {
+
+		Optional<Guest> guest = guestRepository.findById(guestId);
+
+		if (guest.isPresent()) {
+			
+			ResponseEntity<AddressDTO> addressDTO = addressFeignClient.getAddress(guestId);
+			
+			GuestDTO guestDTO = GuestDtoConverter.GuestEntityToDto(guest.get());
+			
+			guestDTO.setAddressDTO(addressDTO.getBody());
+
+			return guestDTO;
+
+		}else {
+			throw new GuestNotFoundException("Guest Not Found For Given Guest Id");
+		}
+
+	}
+
+}

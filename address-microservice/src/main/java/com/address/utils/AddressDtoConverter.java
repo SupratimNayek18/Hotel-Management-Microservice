@@ -9,7 +9,7 @@ public class AddressDtoConverter {
 	
 	public static Address addressDtoToEntity(AddressDTO addressDTO) {
 		Address address = new Address();
-		address.setStreet(address.getStreet());
+		address.setStreet(addressDTO.getStreet());
 		address.setCity(addressDTO.getCity());
 		address.setLandmark(addressDTO.getLandmark());
 		address.setPincode(addressDTO.getPincode());

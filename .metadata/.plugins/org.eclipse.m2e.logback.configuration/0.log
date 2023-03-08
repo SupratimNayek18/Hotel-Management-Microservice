@@ -4734,3 +4734,761 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag nam
 2023-03-07 15:47:43,485 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-03-07 15:47:43,492 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-03-07 15:47:43,494 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 08:58:31,115 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-08 08:59:21,373 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 08:59:21,427 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 08:59:21,435 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 08:59:22,007 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 08:59:22,019 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 08:59:22,023 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 08:59:22,147 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 08:59:22,156 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 08:59:22,158 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:00:24,879 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:00:24,887 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:00:24,889 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:18:25,213 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:18:25,220 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:18:25,222 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:18:51,454 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:18:51,463 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:18:51,466 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:19:15,598 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:19:15,606 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:19:15,607 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:19:46,197 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:19:46,206 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:19:46,208 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:19:48,315 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:19:48,321 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:19:48,323 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:19:56,301 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:19:56,307 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:19:56,308 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:20:02,377 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:20:02,389 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:20:02,391 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:21:10,851 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:21:10,857 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:21:10,858 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:21:37,458 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:21:37,466 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:21:37,467 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:21:48,912 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:21:48,921 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:21:48,923 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:22:23,398 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:22:23,405 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:22:23,406 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:23:05,892 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:23:05,902 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:23:05,905 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:23:23,592 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:23:23,597 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:23:23,599 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:23:34,375 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:23:34,380 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:23:34,381 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:29:18,729 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:29:18,735 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:29:18,737 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:30:42,950 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:30:42,957 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:30:42,958 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 09:41:32,395 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:41:32,405 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:41:32,407 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:41:50,289 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:41:50,300 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:41:50,302 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:42:08,698 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:42:08,704 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:42:08,705 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:42:42,696 [Worker-50: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.payment:payment-microservice:0.0.1-SNAPSHOT @ D:\Hotel Management Application\payment-microservice\pom.xml.
+2023-03-08 09:42:43,288 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:42:43,288 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:42:43,289 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:42:44,814 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:42:44,822 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:42:44,824 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:42:53,012 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:42:53,021 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:42:53,024 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:43:11,764 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:43:11,771 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:43:11,773 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:43:21,994 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:43:21,999 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:43:22,000 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:43:29,645 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:43:29,651 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:43:29,653 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:43:37,813 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:43:37,821 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:43:37,822 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:43:52,717 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:43:52,724 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:43:52,726 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:44:01,430 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:44:01,436 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:44:01,437 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:44:08,621 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:44:08,628 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:44:08,629 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:44:47,274 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:44:47,280 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:44:47,282 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:44:51,715 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:44:51,722 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:44:51,723 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:45:40,466 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:45:40,474 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:45:40,476 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:46:46,852 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:46:46,857 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:46:46,859 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:46:56,720 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:46:56,725 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:46:56,727 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:47:26,604 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:47:26,610 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:47:26,611 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:47:52,675 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:47:52,680 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:47:52,682 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:48:18,493 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:48:18,502 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:48:18,504 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:48:26,815 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:48:26,820 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:48:26,822 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:48:28,964 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:48:28,972 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:48:28,973 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:48:52,340 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:48:52,346 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:48:52,347 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:49:12,055 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:49:12,060 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:49:12,061 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:49:29,161 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:49:29,167 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:49:29,168 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:49:41,233 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:49:41,239 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:49:41,240 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:49:55,117 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:49:55,123 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:49:55,124 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:50:03,348 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:50:03,357 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:50:03,358 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:54:20,988 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:54:20,999 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:54:21,002 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:54:24,764 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:54:24,769 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:54:24,771 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:54:36,017 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:54:36,026 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:54:36,027 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:55:00,889 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:55:00,895 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:55:00,896 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:55:28,043 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:55:28,051 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:55:28,052 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:55:39,117 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:55:39,123 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:55:39,124 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:55:55,504 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:55:55,512 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:55:55,513 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:56:41,396 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:56:41,402 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:56:41,403 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 09:57:39,689 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 09:57:39,694 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 09:57:39,695 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:02:16,258 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:02:16,264 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:02:16,266 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:03:25,095 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:03:25,100 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:03:25,101 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:03:45,212 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:03:45,219 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:03:45,221 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:03:51,338 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:03:51,345 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:03:51,346 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:04:00,909 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:04:00,915 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:04:00,916 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:04:30,870 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:04:30,878 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:04:30,880 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:04:48,504 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:04:48,510 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:04:48,511 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:05:39,783 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:05:39,788 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:05:39,789 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:05:46,029 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:05:46,034 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:05:46,036 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:08:30,514 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:08:30,519 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:08:30,520 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:08:46,176 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:08:46,184 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:08:46,185 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:09:32,555 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:09:32,560 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:09:32,562 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:09:37,583 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:09:37,592 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:09:37,593 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:10:18,193 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:10:18,201 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:10:18,202 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:10:47,158 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:10:47,164 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:10:47,165 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:11:08,970 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:11:08,981 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:11:08,983 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:11:36,901 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:11:36,907 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:11:36,908 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:11:40,176 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:11:40,180 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:11:40,182 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:11:43,157 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:11:43,164 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:11:43,165 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:11:49,155 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:11:49,162 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:11:49,163 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:11:58,089 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:11:58,095 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:11:58,096 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:11:59,196 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:11:59,202 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:11:59,203 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:44:42,340 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:44:42,354 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:44:42,356 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:46:44,042 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:46:44,050 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:46:44,051 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:47:03,393 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:47:03,399 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:47:03,400 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:50:12,826 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:50:12,833 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:50:12,834 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:51:24,045 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:51:24,051 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:51:24,052 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:51:31,835 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:51:31,841 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:51:31,842 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:51:36,471 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:51:36,479 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:51:36,481 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:51:50,160 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:51:50,171 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:51:50,172 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:52:07,253 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:52:07,263 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:52:07,264 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:52:17,724 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:52:17,729 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:52:17,730 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:53:33,608 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:53:33,617 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:53:33,619 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:55:04,915 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:55:04,921 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:55:04,922 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 10:56:09,392 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:56:09,400 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:56:09,401 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 10:56:20,636 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:56:20,644 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:56:20,647 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 10:56:30,596 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:56:30,602 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:56:30,603 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 10:56:52,252 [Worker-74: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.reservation:reservation-microservice:0.0.1-SNAPSHOT @ D:\Hotel Management Application\reservation-microservice\pom.xml.
+2023-03-08 10:56:52,889 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:56:52,889 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:56:52,890 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 10:56:54,426 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:56:54,428 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:56:54,429 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 10:59:31,668 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:59:31,674 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:59:31,675 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 10:59:51,712 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:59:51,718 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:59:51,719 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 10:59:52,756 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 10:59:52,762 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 10:59:52,763 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:00:01,164 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:00:01,169 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:00:01,171 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:00:16,605 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:00:16,610 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:00:16,612 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:00:45,815 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:00:45,822 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:00:45,823 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:01:12,313 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:01:12,319 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:01:12,320 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:01:18,340 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:01:18,345 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:01:18,346 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:01:20,432 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:01:20,439 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:01:20,440 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:01:29,781 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:01:29,787 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:01:29,788 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:01:35,972 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:01:35,978 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:01:35,980 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:01:49,545 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:01:49,551 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:01:49,552 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:12:57,438 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:12:57,447 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:12:57,448 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 11:14:02,019 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:14:02,025 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:14:02,026 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 11:15:04,020 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:15:04,026 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:15:04,027 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:15:23,218 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:15:23,225 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:15:23,226 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:16:45,192 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:16:45,198 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:16:45,199 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:17:06,880 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:17:06,886 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:17:06,887 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:17:29,284 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:17:29,291 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:17:29,292 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:17:32,396 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:17:32,402 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:17:32,403 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:17:41,732 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:17:41,739 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:17:41,740 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:18:02,604 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:18:02,609 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:18:02,611 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:19:16,562 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:19:16,563 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:19:16,564 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:19:51,042 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:19:51,048 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:19:51,049 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:19:53,137 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:19:53,142 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:19:53,143 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:20:10,665 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:20:10,672 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:20:10,673 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:20:20,503 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:20:20,509 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:20:20,510 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:20:24,317 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:20:24,331 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:20:24,332 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:25:28,666 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:25:28,674 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:25:28,676 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:25:33,279 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:25:33,285 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:25:33,287 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:27:59,068 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:27:59,082 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:27:59,083 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:28:14,201 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:28:14,207 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:28:14,208 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:28:17,272 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:28:17,278 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:28:17,279 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:28:56,904 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:28:56,909 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:28:56,911 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\reservation-microservice\src\test\resources
+2023-03-08 11:29:39,691 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:29:39,697 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:29:39,698 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\payment-microservice\src\test\resources
+2023-03-08 11:51:43,083 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 11:51:43,089 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 11:51:43,090 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 12:44:27,781 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gateway:api-gateway:0.0.1-SNAPSHOT @ D:\Hotel Management Application\api-gateway\pom.xml.
+2023-03-08 12:44:29,571 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/cloud/spring-cloud-starter-gateway/4.0.1/spring-cloud-starter-gateway-4.0.1.pom
+2023-03-08 12:44:29,983 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-gateway/4.0.1/spring-cloud-starter-gateway-4.0.1.pom
+2023-03-08 12:44:30,101 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-gateway/4.0.1/spring-cloud-starter-gateway-4.0.1.pom
+2023-03-08 12:44:30,435 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/cloud/spring-cloud-gateway/4.0.1/spring-cloud-gateway-4.0.1.pom
+2023-03-08 12:44:30,486 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway/4.0.1/spring-cloud-gateway-4.0.1.pom
+2023-03-08 12:44:30,543 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway/4.0.1/spring-cloud-gateway-4.0.1.pom
+2023-03-08 12:44:30,952 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/cloud/spring-cloud-gateway-server/4.0.1/spring-cloud-gateway-server-4.0.1.pom
+2023-03-08 12:44:31,003 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-server/4.0.1/spring-cloud-gateway-server-4.0.1.pom
+2023-03-08 12:44:31,059 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-server/4.0.1/spring-cloud-gateway-server-4.0.1.pom
+2023-03-08 12:44:31,399 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-validation/3.0.4/spring-boot-starter-validation-3.0.4.pom
+2023-03-08 12:44:31,453 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.0.4/spring-boot-starter-validation-3.0.4.pom
+2023-03-08 12:44:31,510 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.0.4/spring-boot-starter-validation-3.0.4.pom
+2023-03-08 12:44:31,846 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/hibernate/validator/hibernate-validator/8.0.0.Final/hibernate-validator-8.0.0.Final.pom
+2023-03-08 12:44:31,900 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/8.0.0.Final/hibernate-validator-8.0.0.Final.pom
+2023-03-08 12:44:31,960 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/8.0.0.Final/hibernate-validator-8.0.0.Final.pom
+2023-03-08 12:44:32,295 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/hibernate/validator/hibernate-validator-parent/8.0.0.Final/hibernate-validator-parent-8.0.0.Final.pom
+2023-03-08 12:44:32,346 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator-parent/8.0.0.Final/hibernate-validator-parent-8.0.0.Final.pom
+2023-03-08 12:44:32,463 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator-parent/8.0.0.Final/hibernate-validator-parent-8.0.0.Final.pom
+2023-03-08 12:44:32,799 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/jboss/arquillian/arquillian-bom/1.7.0.Alpha10/arquillian-bom-1.7.0.Alpha10.pom
+2023-03-08 12:44:32,855 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.7.0.Alpha10/arquillian-bom-1.7.0.Alpha10.pom
+2023-03-08 12:44:32,925 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.7.0.Alpha10/arquillian-bom-1.7.0.Alpha10.pom
+2023-03-08 12:44:33,259 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.6/shrinkwrap-bom-1.2.6.pom
+2023-03-08 12:44:33,311 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.6/shrinkwrap-bom-1.2.6.pom
+2023-03-08 12:44:33,365 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.6/shrinkwrap-bom-1.2.6.pom
+2023-03-08 12:44:33,699 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/3.1.4/shrinkwrap-resolver-bom-3.1.4.pom
+2023-03-08 12:44:33,753 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/3.1.4/shrinkwrap-resolver-bom-3.1.4.pom
+2023-03-08 12:44:33,814 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/3.1.4/shrinkwrap-resolver-bom-3.1.4.pom
+2023-03-08 12:44:34,151 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0/shrinkwrap-descriptors-bom-2.0.0.pom
+2023-03-08 12:44:34,201 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0/shrinkwrap-descriptors-bom-2.0.0.pom
+2023-03-08 12:44:34,256 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0/shrinkwrap-descriptors-bom-2.0.0.pom
+2023-03-08 12:44:34,599 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-webflux/3.0.4/spring-boot-starter-webflux-3.0.4.pom
+2023-03-08 12:44:34,652 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.0.4/spring-boot-starter-webflux-3.0.4.pom
+2023-03-08 12:44:34,707 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.0.4/spring-boot-starter-webflux-3.0.4.pom
+2023-03-08 12:44:35,055 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.4/spring-boot-starter-reactor-netty-3.0.4.pom
+2023-03-08 12:44:35,108 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.4/spring-boot-starter-reactor-netty-3.0.4.pom
+2023-03-08 12:44:35,162 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.4/spring-boot-starter-reactor-netty-3.0.4.pom
+2023-03-08 12:44:35,495 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/projectreactor/netty/reactor-netty-http/1.1.4/reactor-netty-http-1.1.4.pom
+2023-03-08 12:44:35,549 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.4/reactor-netty-http-1.1.4.pom
+2023-03-08 12:44:35,604 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.4/reactor-netty-http-1.1.4.pom
+2023-03-08 12:44:35,940 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-http2/4.1.89.Final/netty-codec-http2-4.1.89.Final.pom
+2023-03-08 12:44:35,999 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.89.Final/netty-codec-http2-4.1.89.Final.pom
+2023-03-08 12:44:36,066 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.89.Final/netty-codec-http2-4.1.89.Final.pom
+2023-03-08 12:44:36,399 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns/4.1.89.Final/netty-resolver-dns-4.1.89.Final.pom
+2023-03-08 12:44:36,457 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.89.Final/netty-resolver-dns-4.1.89.Final.pom
+2023-03-08 12:44:36,514 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.89.Final/netty-resolver-dns-4.1.89.Final.pom
+2023-03-08 12:44:36,846 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-dns/4.1.89.Final/netty-codec-dns-4.1.89.Final.pom
+2023-03-08 12:44:36,915 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.89.Final/netty-codec-dns-4.1.89.Final.pom
+2023-03-08 12:44:36,969 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.89.Final/netty-codec-dns-4.1.89.Final.pom
+2023-03-08 12:44:37,303 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns-native-macos/4.1.89.Final/netty-resolver-dns-native-macos-4.1.89.Final.pom
+2023-03-08 12:44:37,364 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.89.Final/netty-resolver-dns-native-macos-4.1.89.Final.pom
+2023-03-08 12:44:37,424 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.89.Final/netty-resolver-dns-native-macos-4.1.89.Final.pom
+2023-03-08 12:44:37,760 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns-classes-macos/4.1.89.Final/netty-resolver-dns-classes-macos-4.1.89.Final.pom
+2023-03-08 12:44:37,815 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.89.Final/netty-resolver-dns-classes-macos-4.1.89.Final.pom
+2023-03-08 12:44:37,877 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.89.Final/netty-resolver-dns-classes-macos-4.1.89.Final.pom
+2023-03-08 12:44:38,215 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/projectreactor/netty/reactor-netty-core/1.1.4/reactor-netty-core-1.1.4.pom
+2023-03-08 12:44:38,269 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.4/reactor-netty-core-1.1.4.pom
+2023-03-08 12:44:38,329 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.4/reactor-netty-core-1.1.4.pom
+2023-03-08 12:44:38,663 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-handler-proxy/4.1.89.Final/netty-handler-proxy-4.1.89.Final.pom
+2023-03-08 12:44:38,716 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.89.Final/netty-handler-proxy-4.1.89.Final.pom
+2023-03-08 12:44:38,772 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.89.Final/netty-handler-proxy-4.1.89.Final.pom
+2023-03-08 12:44:39,108 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-socks/4.1.89.Final/netty-codec-socks-4.1.89.Final.pom
+2023-03-08 12:44:39,163 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.89.Final/netty-codec-socks-4.1.89.Final.pom
+2023-03-08 12:44:39,222 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.89.Final/netty-codec-socks-4.1.89.Final.pom
+2023-03-08 12:44:39,555 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/spring-webflux/6.0.6/spring-webflux-6.0.6.pom
+2023-03-08 12:44:39,607 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.6/spring-webflux-6.0.6.pom
+2023-03-08 12:44:39,666 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.6/spring-webflux-6.0.6.pom
+2023-03-08 12:44:40,183 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-validation/3.0.4/spring-boot-starter-validation-3.0.4.jar
+2023-03-08 12:44:40,504 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.4/spring-boot-starter-reactor-netty-3.0.4.jar
+2023-03-08 12:44:40,827 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/projectreactor/netty/reactor-netty-http/1.1.4/reactor-netty-http-1.1.4.jar
+2023-03-08 12:44:41,135 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-webflux/3.0.4/spring-boot-starter-webflux-3.0.4.jar
+2023-03-08 12:44:41,155 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-http2/4.1.89.Final/netty-codec-http2-4.1.89.Final.jar
+2023-03-08 12:44:41,211 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/cloud/spring-cloud-starter-gateway/4.0.1/spring-cloud-starter-gateway-4.0.1.jar
+2023-03-08 12:44:41,455 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns/4.1.89.Final/netty-resolver-dns-4.1.89.Final.jar
+2023-03-08 12:44:41,484 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-dns/4.1.89.Final/netty-codec-dns-4.1.89.Final.jar
+2023-03-08 12:44:41,500 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/hibernate/validator/hibernate-validator/8.0.0.Final/hibernate-validator-8.0.0.Final.jar
+2023-03-08 12:44:41,521 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/cloud/spring-cloud-gateway-server/4.0.1/spring-cloud-gateway-server-4.0.1.jar
+2023-03-08 12:44:41,547 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns-native-macos/4.1.89.Final/netty-resolver-dns-native-macos-4.1.89.Final-osx-x86_64.jar
+2023-03-08 12:44:41,771 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns-classes-macos/4.1.89.Final/netty-resolver-dns-classes-macos-4.1.89.Final.jar
+2023-03-08 12:44:41,815 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-transport-native-epoll/4.1.89.Final/netty-transport-native-epoll-4.1.89.Final-linux-x86_64.jar
+2023-03-08 12:44:41,831 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/projectreactor/netty/reactor-netty-core/1.1.4/reactor-netty-core-1.1.4.jar
+2023-03-08 12:44:41,859 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-handler-proxy/4.1.89.Final/netty-handler-proxy-4.1.89.Final.jar
+2023-03-08 12:44:41,883 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-socks/4.1.89.Final/netty-codec-socks-4.1.89.Final.jar
+2023-03-08 12:44:42,091 [AetherRepositoryConnector-artifactory-oss.prod.netflix.net-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/spring-webflux/6.0.6/spring-webflux-6.0.6.jar
+2023-03-08 12:44:42,156 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-server/4.0.1/spring-cloud-gateway-server-4.0.1.jar
+2023-03-08 12:44:42,231 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/8.0.0.Final/hibernate-validator-8.0.0.Final.jar
+2023-03-08 12:44:42,356 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.0.4/spring-boot-starter-validation-3.0.4.jar
+2023-03-08 12:44:42,356 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-gateway/4.0.1/spring-cloud-starter-gateway-4.0.1.jar
+2023-03-08 12:44:42,356 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.0.4/spring-boot-starter-webflux-3.0.4.jar
+2023-03-08 12:44:42,505 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.0.4/spring-boot-starter-webflux-3.0.4.jar
+2023-03-08 12:44:42,506 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-server/4.0.1/spring-cloud-gateway-server-4.0.1.jar
+2023-03-08 12:44:42,506 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-gateway/4.0.1/spring-cloud-starter-gateway-4.0.1.jar
+2023-03-08 12:44:42,506 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.0.4/spring-boot-starter-validation-3.0.4.jar
+2023-03-08 12:44:42,559 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.4/spring-boot-starter-reactor-netty-3.0.4.jar
+2023-03-08 12:44:42,614 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.4/reactor-netty-http-1.1.4.jar
+2023-03-08 12:44:42,614 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/8.0.0.Final/hibernate-validator-8.0.0.Final.jar
+2023-03-08 12:44:42,621 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.89.Final/netty-resolver-dns-4.1.89.Final.jar
+2023-03-08 12:44:42,628 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.89.Final/netty-codec-http2-4.1.89.Final.jar
+2023-03-08 12:44:42,708 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.89.Final/netty-codec-dns-4.1.89.Final.jar
+2023-03-08 12:44:42,712 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.4/spring-boot-starter-reactor-netty-3.0.4.jar
+2023-03-08 12:44:42,721 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.89.Final/netty-resolver-dns-4.1.89.Final.jar
+2023-03-08 12:44:42,754 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.4/reactor-netty-http-1.1.4.jar
+2023-03-08 12:44:42,763 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.89.Final/netty-codec-http2-4.1.89.Final.jar
+2023-03-08 12:44:42,764 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.89.Final/netty-resolver-dns-native-macos-4.1.89.Final-osx-x86_64.jar
+2023-03-08 12:44:42,773 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.89.Final/netty-codec-dns-4.1.89.Final.jar
+2023-03-08 12:44:42,801 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.89.Final/netty-resolver-dns-classes-macos-4.1.89.Final.jar
+2023-03-08 12:44:42,809 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.89.Final/netty-transport-native-epoll-4.1.89.Final-linux-x86_64.jar
+2023-03-08 12:44:42,817 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.4/reactor-netty-core-1.1.4.jar
+2023-03-08 12:44:42,860 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.89.Final/netty-handler-proxy-4.1.89.Final.jar
+2023-03-08 12:44:42,863 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.89.Final/netty-resolver-dns-classes-macos-4.1.89.Final.jar
+2023-03-08 12:44:42,863 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.89.Final/netty-resolver-dns-native-macos-4.1.89.Final-osx-x86_64.jar
+2023-03-08 12:44:42,868 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.89.Final/netty-transport-native-epoll-4.1.89.Final-linux-x86_64.jar
+2023-03-08 12:44:42,912 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.4/reactor-netty-core-1.1.4.jar
+2023-03-08 12:44:42,916 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.89.Final/netty-codec-socks-4.1.89.Final.jar
+2023-03-08 12:44:42,919 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.89.Final/netty-handler-proxy-4.1.89.Final.jar
+2023-03-08 12:44:42,926 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.6/spring-webflux-6.0.6.jar
+2023-03-08 12:44:43,016 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.89.Final/netty-codec-socks-4.1.89.Final.jar
+2023-03-08 12:44:43,069 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.6/spring-webflux-6.0.6.jar
+2023-03-08 12:44:44,479 [Worker-103: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2023-03-08 12:44:44,479 [Worker-103: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2023-03-08 12:44:44,482 [Worker-103: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2023-03-08 12:44:44,486 [Worker-103: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2023-03-08 12:44:44,806 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2023-03-08 12:44:44,809 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-08 12:44:44,930 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gateway:api-gateway:0.0.1-SNAPSHOT @ D:\Hotel Management Application\api-gateway\pom.xml.
+2023-03-08 12:44:45,588 [Worker-103: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2023-03-08 12:44:45,588 [Worker-103: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2023-03-08 12:44:45,588 [Worker-103: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2023-03-08 12:44:45,589 [Worker-103: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2023-03-08 12:44:45,964 [Worker-103: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-03-08 12:44:46,432 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 12:44:46,433 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 12:44:46,435 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\api-gateway\src\test\resources
+2023-03-08 12:44:46,894 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/cloud/spring-cloud-starter-gateway/4.0.1/spring-cloud-starter-gateway-4.0.1-sources.jar
+2023-03-08 12:44:47,124 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-gateway/4.0.1/spring-cloud-starter-gateway-4.0.1-sources.jar
+2023-03-08 12:44:47,129 [Worker-104: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-gateway:4.0.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-gateway:jar:sources:4.0.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-08 12:44:48,847 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/cloud/spring-cloud-gateway-server/4.0.1/spring-cloud-gateway-server-4.0.1-sources.jar
+2023-03-08 12:44:49,080 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-server/4.0.1/spring-cloud-gateway-server-4.0.1-sources.jar
+2023-03-08 12:44:49,296 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-server/4.0.1/spring-cloud-gateway-server-4.0.1-sources.jar
+2023-03-08 12:44:49,325 [Worker-104: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-gateway-server:4.0.1
+2023-03-08 12:44:50,674 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-validation/3.0.4/spring-boot-starter-validation-3.0.4-sources.jar
+2023-03-08 12:44:50,912 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.0.4/spring-boot-starter-validation-3.0.4-sources.jar
+2023-03-08 12:44:51,027 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.0.4/spring-boot-starter-validation-3.0.4-sources.jar
+2023-03-08 12:44:51,057 [Worker-104: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-validation:3.0.4
+2023-03-08 12:44:52,408 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/hibernate/validator/hibernate-validator/8.0.0.Final/hibernate-validator-8.0.0.Final-sources.jar
+2023-03-08 12:44:52,642 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/8.0.0.Final/hibernate-validator-8.0.0.Final-sources.jar
+2023-03-08 12:44:52,941 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/8.0.0.Final/hibernate-validator-8.0.0.Final-sources.jar
+2023-03-08 12:44:52,973 [Worker-104: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.validator:hibernate-validator:8.0.0.Final
+2023-03-08 12:44:54,283 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-webflux/3.0.4/spring-boot-starter-webflux-3.0.4-sources.jar
+2023-03-08 12:44:54,518 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.0.4/spring-boot-starter-webflux-3.0.4-sources.jar
+2023-03-08 12:44:54,631 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.0.4/spring-boot-starter-webflux-3.0.4-sources.jar
+2023-03-08 12:44:54,664 [Worker-104: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-webflux:3.0.4
+2023-03-08 12:44:56,307 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.4/spring-boot-starter-reactor-netty-3.0.4-sources.jar
+2023-03-08 12:44:56,545 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.4/spring-boot-starter-reactor-netty-3.0.4-sources.jar
+2023-03-08 12:44:56,669 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.4/spring-boot-starter-reactor-netty-3.0.4-sources.jar
+2023-03-08 12:44:56,702 [Worker-104: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-reactor-netty:3.0.4
+2023-03-08 12:44:58,315 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/projectreactor/netty/reactor-netty-http/1.1.4/reactor-netty-http-1.1.4-sources.jar
+2023-03-08 12:44:58,549 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.4/reactor-netty-http-1.1.4-sources.jar
+2023-03-08 12:44:58,731 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.4/reactor-netty-http-1.1.4-sources.jar
+2023-03-08 12:44:58,763 [Worker-104: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-http:1.1.4
+2023-03-08 12:45:00,471 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-http2/4.1.89.Final/netty-codec-http2-4.1.89.Final-sources.jar
+2023-03-08 12:45:00,774 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.89.Final/netty-codec-http2-4.1.89.Final-sources.jar
+2023-03-08 12:45:01,054 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.89.Final/netty-codec-http2-4.1.89.Final-sources.jar
+2023-03-08 12:45:01,087 [Worker-104: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http2:4.1.89.Final
+2023-03-08 12:45:02,694 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns/4.1.89.Final/netty-resolver-dns-4.1.89.Final-sources.jar
+2023-03-08 12:45:02,931 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.89.Final/netty-resolver-dns-4.1.89.Final-sources.jar
+2023-03-08 12:45:03,062 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.89.Final/netty-resolver-dns-4.1.89.Final-sources.jar
+2023-03-08 12:45:03,095 [Worker-104: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns:4.1.89.Final
+2023-03-08 12:45:04,455 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-dns/4.1.89.Final/netty-codec-dns-4.1.89.Final-sources.jar
+2023-03-08 12:45:04,689 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.89.Final/netty-codec-dns-4.1.89.Final-sources.jar
+2023-03-08 12:45:04,819 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.89.Final/netty-codec-dns-4.1.89.Final-sources.jar
+2023-03-08 12:45:04,885 [Worker-104: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-dns:4.1.89.Final
+2023-03-08 12:45:06,228 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns-native-macos/4.1.89.Final/netty-resolver-dns-native-macos-4.1.89.Final-sources.jar
+2023-03-08 12:45:06,465 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.89.Final/netty-resolver-dns-native-macos-4.1.89.Final-sources.jar
+2023-03-08 12:45:06,467 [Worker-104: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for io.netty:netty-resolver-dns-native-macos:4.1.89.Final:osx-x86_64
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.netty:netty-resolver-dns-native-macos:jar:sources:4.1.89.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-08 12:45:08,103 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns-classes-macos/4.1.89.Final/netty-resolver-dns-classes-macos-4.1.89.Final-sources.jar
+2023-03-08 12:45:08,334 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.89.Final/netty-resolver-dns-classes-macos-4.1.89.Final-sources.jar
+2023-03-08 12:45:08,449 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.89.Final/netty-resolver-dns-classes-macos-4.1.89.Final-sources.jar
+2023-03-08 12:45:08,476 [Worker-104: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns-classes-macos:4.1.89.Final
+2023-03-08 12:45:09,807 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/projectreactor/netty/reactor-netty-core/1.1.4/reactor-netty-core-1.1.4-sources.jar
+2023-03-08 12:45:10,043 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.4/reactor-netty-core-1.1.4-sources.jar
+2023-03-08 12:45:10,234 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.4/reactor-netty-core-1.1.4-sources.jar
+2023-03-08 12:45:10,261 [Worker-104: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-core:1.1.4
+2023-03-08 12:45:11,936 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-handler-proxy/4.1.89.Final/netty-handler-proxy-4.1.89.Final-sources.jar
+2023-03-08 12:45:12,177 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.89.Final/netty-handler-proxy-4.1.89.Final-sources.jar
+2023-03-08 12:45:12,292 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.89.Final/netty-handler-proxy-4.1.89.Final-sources.jar
+2023-03-08 12:45:12,321 [Worker-104: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler-proxy:4.1.89.Final
+2023-03-08 12:45:13,647 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-socks/4.1.89.Final/netty-codec-socks-4.1.89.Final-sources.jar
+2023-03-08 12:45:13,882 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.89.Final/netty-codec-socks-4.1.89.Final-sources.jar
+2023-03-08 12:45:14,015 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.89.Final/netty-codec-socks-4.1.89.Final-sources.jar
+2023-03-08 12:45:14,046 [Worker-104: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-socks:4.1.89.Final
+2023-03-08 12:45:15,720 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/spring-webflux/6.0.6/spring-webflux-6.0.6-sources.jar
+2023-03-08 12:45:15,959 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.6/spring-webflux-6.0.6-sources.jar
+2023-03-08 12:45:16,214 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.6/spring-webflux-6.0.6-sources.jar
+2023-03-08 12:45:16,245 [Worker-104: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webflux:6.0.6
+2023-03-08 12:45:17,940 [Worker-104: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/4.0.0/spring-cloud-starter-netflix-eureka-client-4.0.0-sources.jar
+2023-03-08 12:45:17,941 [Worker-104: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:4.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:4.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-08 12:45:18,807 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 12:45:18,807 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 12:45:18,808 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\api-gateway\src\test\resources
+2023-03-08 12:45:51,241 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 12:45:51,253 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 12:45:51,254 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\api-gateway\src\test\resources
+2023-03-08 12:46:01,021 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 12:46:01,026 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 12:46:01,027 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\api-gateway\src\test\resources
+2023-03-08 12:46:10,251 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 12:46:10,256 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 12:46:10,257 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\api-gateway\src\test\resources
+2023-03-08 12:47:07,897 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 12:47:07,904 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 12:47:07,905 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\api-gateway\src\test\resources
+2023-03-08 12:57:26,936 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 12:57:26,943 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 12:57:26,944 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\api-gateway\src\test\resources
+2023-03-08 12:58:09,862 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 12:58:09,867 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 12:58:09,869 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\api-gateway\src\test\resources
+2023-03-08 12:58:15,362 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 12:58:15,369 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 12:58:15,370 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\api-gateway\src\test\resources
+2023-03-08 12:59:01,855 [Worker-108: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/cloud/spring-cloud-starter-gateway/4.0.1/spring-cloud-starter-gateway-4.0.1-javadoc.jar
+2023-03-08 12:59:02,145 [Worker-108: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-gateway/4.0.1/spring-cloud-starter-gateway-4.0.1-javadoc.jar
+2023-03-08 12:59:02,263 [Worker-108: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-gateway/4.0.1/spring-cloud-starter-gateway-4.0.1-javadoc.jar
+2023-03-08 12:59:02,304 [Worker-108: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-starter-gateway:4.0.1
+2023-03-08 12:59:03,663 [Worker-108: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns-native-macos/4.1.89.Final/netty-resolver-dns-native-macos-4.1.89.Final-javadoc.jar
+2023-03-08 12:59:03,897 [Worker-108: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.89.Final/netty-resolver-dns-native-macos-4.1.89.Final-javadoc.jar
+2023-03-08 12:59:03,899 [Worker-108: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for io.netty:netty-resolver-dns-native-macos:4.1.89.Final:osx-x86_64
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.netty:netty-resolver-dns-native-macos:jar:javadoc:4.1.89.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-08 12:59:05,656 [Worker-108: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/4.0.0/spring-cloud-starter-netflix-eureka-client-4.0.0-javadoc.jar
+2023-03-08 12:59:05,658 [Worker-108: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:4.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:4.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-08 12:59:06,046 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 12:59:06,047 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 12:59:06,048 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\api-gateway\src\test\resources
+2023-03-08 14:30:51,073 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 14:30:51,092 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 14:30:51,094 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 14:33:56,494 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 14:33:56,537 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 14:33:56,539 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 14:34:01,664 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 14:34:01,687 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 14:34:01,690 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 14:34:34,837 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 14:34:34,843 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 14:34:34,844 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 14:36:59,594 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 14:36:59,600 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 14:36:59,601 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 14:39:06,129 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 14:39:06,139 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 14:39:06,140 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 14:39:15,622 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 14:39:15,632 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 14:39:15,634 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 14:39:20,967 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 14:39:20,973 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 14:39:20,975 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 14:40:17,110 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 14:40:17,117 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 14:40:17,118 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 14:40:58,341 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 14:40:58,352 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 14:40:58,353 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources
+2023-03-08 14:41:06,260 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-08 14:41:06,265 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-08 14:41:06,266 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Hotel Management Application\guest-microservice\src\test\resources

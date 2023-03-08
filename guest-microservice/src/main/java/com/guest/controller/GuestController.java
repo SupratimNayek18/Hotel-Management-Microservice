@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.guest.dto.AddressDTO;
 import com.guest.dto.GuestDTO;
+import com.guest.dto.ReservationDTO;
 import com.guest.dto.UserCredentialsDTO;
 import com.guest.exceptions.GuestNotFoundException;
 import com.guest.exceptions.GuestRegistrationException;
@@ -69,6 +70,20 @@ public class GuestController {
 
 		return new ResponseEntity<>(guestService.getGuestDetails(guestId), HttpStatus.OK);
 
+	}
+	
+	@PostMapping("/addReservation")
+	public ResponseEntity<ReservationDTO> addReservation(@RequestBody ReservationDTO reservationDTO){
+		
+		return new ResponseEntity<>(guestService.addReservation(reservationDTO),HttpStatus.OK);
+		
+	}
+	
+	@GetMapping("/getReservationDetails")
+	public ResponseEntity<ReservationDTO> getReservationDetails(@RequestParam Integer reservationId){
+		
+		return new ResponseEntity<>(guestService.getReservation(reservationId),HttpStatus.OK);
+		
 	}
 
 }

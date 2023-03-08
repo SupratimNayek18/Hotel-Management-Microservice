@@ -9,17 +9,17 @@ import org.springframework.stereotype.Service;
 
 import com.guest.dto.AddressDTO;
 import com.guest.dto.GuestDTO;
+import com.guest.dto.ReservationDTO;
 import com.guest.dto.UserCredentialsDTO;
 import com.guest.entities.Guest;
 import com.guest.entities.UserCredentials;
 import com.guest.exceptions.GuestNotFoundException;
 import com.guest.exceptions.GuestRegistrationException;
-import com.guest.feignclients.AddressFeignClient;
+import com.guest.feignclients.FeignClientHandler;
 import com.guest.repository.GuestRepository;
 import com.guest.repository.UserCredentialsRepository;
 import com.guest.utils.GuestDtoConverter;
 import com.guest.utils.UserCredentialsDTOConverter;
-import com.netflix.discovery.converters.Auto;
 
 import jakarta.transaction.Transactional;
 
@@ -34,7 +34,7 @@ public class GuestServiceImpl implements GuestService {
 	UserCredentialsRepository userCredentialsRepository;
 
 	@Autowired
-	AddressFeignClient addressFeignClient;
+	FeignClientHandler feignClientHandler;
 	
 	@Autowired
 	PasswordEncoder passwordEncoder;
@@ -56,9 +56,12 @@ public class GuestServiceImpl implements GuestService {
 			userCredentials.setPassword(passwordEncoder.encode(userCredentials.getPassword()));
 			userCredentialsRepository.save(userCredentials);
 
-			addressFeignClient.addAddress(addressDTO);
+			AddressDTO savedAddressDTO = feignClientHandler.addAddress(addressDTO).getBody();
 			
-			return GuestDtoConverter.GuestEntityToDto(savedGuest);
+			GuestDTO savedGuestDTO = GuestDtoConverter.GuestEntityToDto(savedGuest);
+			savedGuestDTO.setAddressDTO(savedAddressDTO);
+			
+			return savedGuestDTO;
 			
 		}catch(Exception e) {
 			
@@ -75,7 +78,7 @@ public class GuestServiceImpl implements GuestService {
 
 		if (guest.isPresent()) {
 			
-			ResponseEntity<AddressDTO> addressDTO = addressFeignClient.getAddress(guestId);
+			ResponseEntity<AddressDTO> addressDTO = feignClientHandler.getAddress(guestId);
 			
 			GuestDTO guestDTO = GuestDtoConverter.GuestEntityToDto(guest.get());
 			
@@ -87,6 +90,20 @@ public class GuestServiceImpl implements GuestService {
 			throw new GuestNotFoundException("Guest Not Found For Given Guest Id");
 		}
 
+	}
+
+	@Override
+	public ReservationDTO addReservation(ReservationDTO reservationDTO) {
+		
+		return feignClientHandler.addReservation(reservationDTO).getBody();
+	
+	}
+
+	@Override
+	public ReservationDTO getReservation(Integer reservationId) {
+		
+		return feignClientHandler.getReservationDetails(reservationId).getBody();
+	
 	}
 
 }

@@ -5,8 +5,6 @@ e
 5src/main/java/com/reservation/entity/Reservation.java,5\5\55e6d0037b219dfa4405806851345ac0016e7a58
 u
 Esrc/main/java/com/reservation/exceptions/AddReservationException.java,8\f\8f726d838157f971de660c40ac3ebff90dd1fcb5
-u
-Esrc/main/java/com/reservation/exceptions/GetReservationException.java,f\4\f4af378ebb3f2b445f849c150a6383b01ded6f14
 p
 @src/main/java/com/reservation/utils/ReservationDTOConverter.java,d\0\d06e8ff9d18f556875a94bf495172c9123e866a0
 
@@ -19,11 +17,13 @@ q
 Asrc/main/java/com/reservation/service/ReservationServiceImpl.java,1\a\1a9d1fb95626d498ddc72e475bdc98e770f29e6f
 e
 5src/main/java/com/reservation/dto/ReservationDTO.java,4\8\4898c5610f54bca31ede2a92b9eefd7599e8eea9
-i
-9src/main/java/com/reservation/config/SpringFoxConfig.java,0\8\087f71aa02e6124a75cce65ee5dbeec2985d516d
 Y
 )src/main/resources/application.properties,0\6\06f65155ec73600b9fc5c4dc2883d4bb84d8e284
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 u
 Esrc/main/java/com/reservation/ReservationMicroserviceApplication.java,4\e\4edcf052b9b77830aba8ae679b33893aa55f2981
+i
+9src/main/java/com/reservation/utils/CreatePaymentDTO.java,8\e\8e4defcb4588f6dcbe5b11e016ee73f55e243a86
+r
+Bsrc/main/java/com/reservation/feignclients/PaymentFeignClient.java,c\6\c6830e739c330e806bbaf84f7cebe19be0dbc7bf

@@ -24,6 +24,8 @@ import com.guest.service.JwtService;
 import com.guest.utils.GuestDTOCreator;
 import com.guest.utils.UserCredentialsDTOCreator;
 
+import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
+
 @RestController
 @RequestMapping("/guest/api/")
 public class GuestController {
@@ -64,6 +66,8 @@ public class GuestController {
 				HttpStatus.OK);
 
 	}
+	
+
 
 	@GetMapping("getGuestDetails")
 	public ResponseEntity<GuestDTO> getGuestDetails(@RequestParam Integer guestId) throws GuestNotFoundException {

@@ -21,6 +21,7 @@ import com.guest.repository.UserCredentialsRepository;
 import com.guest.utils.GuestDtoConverter;
 import com.guest.utils.UserCredentialsDTOConverter;
 
+import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 import jakarta.transaction.Transactional;
 
 @Service
@@ -40,6 +41,7 @@ public class GuestServiceImpl implements GuestService {
 	PasswordEncoder passwordEncoder;
 
 	@Override
+	@CircuitBreaker(name = "REGISTER_GUEST_CIRCUIT_BREAKER",fallbackMethod = "registerFallback")
 	public GuestDTO registerGuest(GuestDTO guestDTO,UserCredentialsDTO userCredentialsDTO, AddressDTO addressDTO) throws GuestRegistrationException {
 		
 		Guest guest = GuestDtoConverter.GuestDtoToEntity(guestDTO);
@@ -70,8 +72,13 @@ public class GuestServiceImpl implements GuestService {
 		}
 		
 	}
+	
+	public GuestDTO registerFallback(GuestDTO guestDTO,UserCredentialsDTO userCredentialsDTO, AddressDTO addressDTO,Throwable t) {
+		return new GuestDTO();
+	}
 
 	@Override
+	@CircuitBreaker(name = "GET_GUEST_CIRCUIT_BREAKER",fallbackMethod = "getGuestFallback")
 	public GuestDTO getGuestDetails(Integer guestId) throws GuestNotFoundException {
 
 		Optional<Guest> guest = guestRepository.findById(guestId);
@@ -90,6 +97,10 @@ public class GuestServiceImpl implements GuestService {
 			throw new GuestNotFoundException("Guest Not Found For Given Guest Id");
 		}
 
+	}
+	
+	public GuestDTO getGuestFallback(Integer guestId,Throwable t){
+		return new GuestDTO();
 	}
 
 	@Override
